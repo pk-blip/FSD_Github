@@ -4,6 +4,6 @@ public class first {
         System.out.println("hii");
         System.out.printlin("prathamesh");
         //hiiiii
-        System.out.println("hii ritesh and krushhna");
+        System.out.println("hii ritesh and krushhna")
     }
 }
